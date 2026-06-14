@@ -6,4 +6,4 @@ Expected flow:
 
 local vault → GitHub → n8n webhook → Obsidian server pull
 
-Status: test test 1 test 2
+Status: test test 1 test 2 test 3
